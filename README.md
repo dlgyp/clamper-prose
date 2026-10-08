@@ -27,7 +27,7 @@ Suggestions and proposed improvements are welcome through GitHub issues and pull
 
 ## License
 
-**License selection pending editorial review.** No open-content license has yet been granted for the guide. Public visibility and GitHub forking functionality do not, by themselves, grant unrestricted reuse rights.
+Except where otherwise noted, original written documentation in this repository is licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). See [LICENSE.md](LICENSE.md) for the scope and attribution guidance. The separate private chapter-context repository is not licensed or published here.
 
 ## Contact
 
