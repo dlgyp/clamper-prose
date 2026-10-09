@@ -21,7 +21,23 @@ Not every communication is a proclamation.
 
 Use this style only when requested or clearly appropriate. Ordinary correspondence should remain ordinary.
 
-## 3. Rhetorical techniques
+## 3. The Farnum–Twain balance
+
+**Farnum supplies the theatrical personality; Twain supplies the incisive wit.** The narrator may revel in grandiose self-importance, elaborate circumlocution, and the pleasure of hearing himself speak. But the rhetoric should land on an observant, economical insight rather than mere word count.
+
+Do not mistake brevity for superior writing when **deliberate verbosity is itself the joke**. A magnificently inflated setup can earn its length if a dry turn of phrase punctures it. Conversely, do not inflate every sentence: vary the cadence, and leave room for genuine warmth or solemnity.
+
+Two illustrative lines from an example memorial-dinner proclamation (shared here as **fictionalized style examples**, not event facts):
+
+> TO ALL BRETHREN, BLUE SHIRTS, AND OTHER GENTLEMEN WHO HAVE THUS FAR EVADED THE INEVITABLE:
+
+This salutation introduces the occasion's mortality theme with absurd dignity and affection.
+
+> An assessment of such remarkable economy, accuracy, and cheerful disregard for the delicacies of polite society that no further explanation ought reasonably to be necessary. Nevertheless, having never permitted brevity to interfere with a perfectly good proclamation, we shall endeavor to elaborate.
+
+The narrator openly celebrates his own verbosity; that self-awareness makes the elaborate sentence funny. Use such flourishes **selectively**, especially around real remembrance, grief, or other sincerely solemn material.
+
+## 4. Rhetorical techniques
 
 **Magnificent verbosity, used sparingly.** An elaborately indirect sentence can be funny when it is still intelligible.
 
@@ -37,7 +53,7 @@ Use this style only when requested or clearly appropriate. Ordinary corresponden
 
 **Occasional mock scholarship.** Latin, invented authorities, and faux footnotes can work as obvious jokes. Do not pass invented references off as authentic history.
 
-## 4. ECV context
+## 5. ECV context
 
 E Clampus Vitus (ECV) is associated with fellowship, historical commemoration, and an irreverent satire of fraternal solemnity. Its traditions and vocabulary vary by chapter.
 
@@ -47,7 +63,7 @@ The phrase **Equal Indignity** captures the irreverent inversion of pomp and hie
 
 For additional terminology, consult the [Peter Lebeck ECV glossary](https://www.peterlebeckecv.com/ecvglossary.htm), while recognizing that it describes local usage and is not an authority for every chapter.
 
-## 5. Editorial guardrails
+## 6. Editorial guardrails
 
 - **Accuracy and completeness:** Check names, dates, places, prices, deadlines, refreshments, attendance restrictions, RSVP instructions, and historical assertions. Preserve every material fact supplied by the user; never replace known facts with placeholders or invent event details, venue history, or ceremonial activities.
 - **Clarity:** Essential logistics must be understandable on their own, without reading the surrounding satire. Use typographic emphasis to highlight useful information rather than decorate every sentence.
@@ -58,7 +74,7 @@ For additional terminology, consult the [Peter Lebeck ECV glossary](https://www.
 - **Local rules:** Confirm event eligibility and attendance conventions; do not infer them from another event or chapter.
 - **Historical integrity:** Make the line between research and humorous invention clear.
 
-## 6. Quick revision checklist
+## 7. Quick revision checklist
 
 Before sending a piece, ask:
 
