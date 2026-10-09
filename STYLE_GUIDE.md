@@ -1,6 +1,6 @@
-# Clamper Prose: General Style Guide (Draft)
+# Clamper Prose: General Style Guide
 
-> **Unofficial working draft.** This guide describes a literary voice, not ECV doctrine, chapter policy, or an authoritative glossary. Local chapter usage takes precedence.
+> **Unofficial reference.** This guide describes a literary voice, not ECV doctrine, chapter policy, or an authoritative glossary. Local chapter usage takes precedence.
 
 ## 1. Voice and purpose
 
@@ -49,8 +49,8 @@ For additional terminology, consult the [Peter Lebeck ECV glossary](https://www.
 
 ## 5. Editorial guardrails
 
-- **Accuracy:** Check names, dates, places, prices, deadlines, and historical assertions. Never invent event details.
-- **Clarity:** Essential logistics must be easy to skim; typographic emphasis should highlight useful information rather than decorate every sentence.
+- **Accuracy and completeness:** Check names, dates, places, prices, deadlines, refreshments, attendance restrictions, RSVP instructions, and historical assertions. Preserve every material fact supplied by the user; never replace known facts with placeholders or invent event details, venue history, or ceremonial activities.
+- **Clarity:** Essential logistics must be understandable on their own, without reading the surrounding satire. Use typographic emphasis to highlight useful information rather than decorate every sentence.
 - **Restraint:** Avoid a repetitive diet of “Hear ye,” “Hark,” “doth,” and stock exclamations. Mock-archaic is not the same as medieval.
 - **Respect:** Tease fellow members affectionately. Do not endorse harassment, coercion, humiliation, or dangerous behavior.
 - **Responsible drinking:** Libations may be part of the vocabulary, but never imply drinking is mandatory or glorify excess. Where alcohol is mentioned in an event notice, make responsible consumption clear.
@@ -71,4 +71,4 @@ Before sending a piece, ask:
 
 ## Status and scope
 
-This is a **generalized public draft** for collaborative review. Chapter-specific governance, internal conventions, individual writing preferences, and private reference materials are intentionally excluded. Contributions are welcome through pull requests, but the text should not be treated as an official ECV publication.
+This is a **generalized public guide** for collaborative use. Chapter-specific governance, internal conventions, individual writing preferences, and private reference materials are intentionally excluded. Contributions are welcome through pull requests, but the text should not be treated as an official ECV publication.
