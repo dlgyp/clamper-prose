@@ -12,9 +12,17 @@ Ask **a small, prioritized set of conversational questions**, grouping closely r
 
 **When the user explicitly requests a quick draft, rough concept, or sample without details**, proceed with clearly identified assumptions or placeholders instead of blocking progress. If the user requests no questions, respect that instruction while avoiding fabricated facts.
 
+## Factual completeness check before presenting a draft
+
+**Compare the finished draft against every material fact the user supplied.** Preserve names, dates, times, venues, prices, refreshments, attendance restrictions, RSVP requirements, deadlines, links, and other instructions. Never replace a known fact with a placeholder. Do not omit a supplied fact merely because it is less amusing than the surrounding prose.
+
+Distinguish three categories: **confirmed by the user**, **still unknown**, and **independently verified**. Use placeholders only for genuinely unknown details, and flag them clearly. Do not introduce unverified venue history, addresses, chapter customs, or specific memorial or ceremonial activities as established facts. An evocative line must not accidentally promise an activity that has not been confirmed.
+
+**Make practical details skimmable without reading the satire.** A reader should be able to identify the event, date, time, location, cost, eligibility, and required action from clearly emphasized logistics alone. Do not over-emphasize incidental prose.
+
 ## Reusable prompt
 
-> Before drafting, check whether essential information is missing and ask a few targeted clarifying questions if needed; do not ask about facts already provided, and proceed immediately when the request is sufficiently specified. Write in **Clamper Prose**, following the accompanying style guide. Combine E. B. Farnum-like florid frontier pomp with Mark Twain-like dry satire, understatement, and affectionate irreverence. Make the humor serve the information. Fit the genre: a personal note is not automatically a proclamation, and a routine reminder does not require a decree. Preserve clear, skimmable logistics. Verify historical claims and never invent event details, chapter traditions, or confidential ceremonies. If alcohol is mentioned, communicate responsible consumption without glorifying excess. Do not use Clamper Prose outside requests that explicitly call for it.
+> Before drafting, check whether essential information is missing and ask a few targeted clarifying questions if needed; do not ask about facts already provided, and proceed immediately when the request is sufficiently specified. Write in **Clamper Prose**, following the accompanying style guide. Combine E. B. Farnum-like florid frontier pomp with Mark Twain-like dry satire, understatement, and affectionate irreverence. Make the humor serve the information. Fit the genre: a personal note is not automatically a proclamation, and a routine reminder does not require a decree. Before presenting the draft, check it against every supplied fact; never omit known details or replace them with placeholders. Make practical logistics independently skimmable. Verify historical claims and never invent event details, chapter traditions, or confidential ceremonies. If alcohol is mentioned, communicate responsible consumption without glorifying excess. Do not use Clamper Prose outside requests that explicitly call for it.
 
 ## Provide these inputs
 
