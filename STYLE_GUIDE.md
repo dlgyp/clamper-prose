@@ -1,163 +1,102 @@
 # Clamper Prose: General Style Guide
 
-> **Unofficial reference.** This guide describes a literary voice, not ECV doctrine, chapter policy, or an authoritative glossary. Local chapter usage takes precedence.
+> **Unofficial reference.** This guide describes a literary method, not ECV doctrine, chapter policy, or an authoritative glossary. Local chapter usage takes precedence.
 
-## 1. Voice and purpose
+## 1. Foundations: voice and *Deadwood* diction
 
-**Clamper Prose is a flexible literary tradition, not a single narrator or genre.** Its common linguistic foundation draws upon the elaborate frontier diction and dramatic vernacular of HBO's *Deadwood*: ceremonial grandiosity, rhetorical ingenuity, social observation, affectionate irreverence, and cultivated expression confronting uncultivated circumstances. It can serve different authors, chapters, publications, and occasions.
+**Clamper Prose is a literary tradition, not a single narrator or format.** Its common foundation is the elaborate frontier diction and dramatic vernacular of HBO's *Deadwood*: ceremonial grandiosity, rhetorical ingenuity, social observation, affectionate irreverence, and cultivated expression confronting uncultivated circumstances. Different writers and genres share this foundation without sharing the same personality.
 
-Its humor often arises from the contradictions of fraternal life, particularly the solemn administration of activities that seldom warrant solemnity. The joke should illuminate the message, not bury it. Ornate prose is welcome when it builds character, comedy, or occasion, but should not be obligatory in every sentence.
+Its comedy often comes from the solemn administration of things that scarcely warrant solemnity. The joke should illuminate the message, not bury it. Elaborate language earns its place when it develops character, comic tension, or occasion; plain speech is sometimes the stronger punch line.
 
-The audience should still understand **what is happening, when, where, why, what it costs, and what action is required**.
+Apply these *Deadwood*-inspired techniques across Clamper Prose:
 
-### Shared *Deadwood* diction and vernacular
+- **Syntax and rhythm:** Artfully extended sentences, circumlocution, rhetorical reversals, interruptions, and sudden directness.
+- **Frontier vernacular:** Historically suggestive vocabulary without artificial medieval archaisms.
+- **Speech as social action:** Deference, ambition, flattery, contempt, and authority conveyed through address and verbal maneuvering.
+- **High meets low:** Refined oratory applied to disreputable circumstances and mundane business.
+- **Profanity with restraint:** Borrow the show's linguistic ingenuity, not its frequency of obscenity; strong language should be rare, purposeful, and audience-appropriate.
 
-These principles apply across Clamper Prose, regardless of persona or genre:
+Borrow dramatic mechanisms, **not exact dialogue**. Period flavor must remain intelligible.
 
-- **Elaborate syntax:** Carefully constructed sentences, rhetorical reversals, strategic interruptions, and sudden moments of directness.
-- **Frontier vernacular:** Historically suggestive vocabulary and turns of phrase without artificial medieval archaisms.
-- **Speech as social hierarchy:** Deference, contempt, ambition, flattery, and authority revealed through address and word choice.
-- **The collision of high and low:** Refined oratory deployed amid disreputable circumstances, with coarse realities discussed in improbably cultivated language.
-- **Verbal maneuvering:** Speech that negotiates status, avoids responsibility, disguises motives, or claims authority.
-- **Restraint in profanity:** Borrow the show's linguistic inventiveness, not its frequency of obscenity. Strong language should be rare, purposeful, and audience-appropriate.
+## 2. Authorial personas
 
-Borrow dramatic mechanisms, not exact dialogue. Period flavor must not compromise intelligibility.
-
-## 2. Distinguish tradition, authorial persona, and genre
-
-**The tradition supplies the linguistic foundation; persona determines who speaks; genre determines the form.** No single persona's literary influences, signature, or chapter customs should be imposed on every work of Clamper Prose.
+**The tradition supplies the language; the persona determines who speaks; the genre determines the form.** Do not impose one author's literary influences, titles, signature, or chapter customs on another.
 
 ### El Bastardo Corto — Chapter 1.5 correspondent
 
-**El Bastardo Corto** is a particular authorial persona associated with De la Guerra y Pacheco, Chapter 1.5—not a synonym for Clamper Prose or the official voice of ECV.
+El Bastardo Corto is an established authorial persona associated with **De la Guerra y Pacheco, Chapter 1.5**, not a synonym for Clamper Prose or the official voice of ECV.
 
-His specific literary influences are **E. B. Farnum and Mark Twain**, layered upon the shared *Deadwood* foundation. Farnum contributes self-importance, elaborate circumlocution, social ambition, and deferential verbal performance; Twain contributes observational precision, dry irony, and the deft puncturing of grandiosity. Deliberate verbosity may itself be the joke when its setup earns a concise payoff.
+His particular influences are **E. B. Farnum and Mark Twain**, layered upon the shared *Deadwood* foundation. Farnum lends theatrical self-importance, circumlocution, social ambition, and deferential performance; Twain lends observational precision, dry irony, and the economical puncturing of grandiosity. Corto may knowingly delight in his own verbal excess, provided the joke rewards it.
 
-When Corto writes at the Noble Grand Humbug's behest, the Farnum–Swearengen relationship offers a dramatic model: a verbally ambitious, deferential intermediary representing a more powerful patron. Borrow the asymmetry, loyalty, and oblique irony, not exact dialogue or behavior. The Humbug remains the host and source of authority; Corto remains correspondent and signatory. His established titles, signature, and local conventions belong to his persona and chapter.
+When writing at the Noble Grand Humbug's behest, Corto may draw on the **Farnum–Swearengen dynamic**: a verbally ambitious intermediary representing a more powerful patron. Borrow the social asymmetry, loyalty, and oblique irony, not the characters' exact dialogue or behavior. The Humbug remains host and source of authority; Corto remains correspondent and signatory. Preserve Corto's established titles, signature, and local conventions where supplied, but never generalize them to other writers.
 
 ### Ira B. Certain — *The Indignant Times* editor
 
-**Ira B. Certain** is the established editor and publisher of *The Indignant Times*, a recurring Clamper broadsheet. His two principal influences are **A. W. Merrick of *Deadwood* and Douglas Adams**, expressed through the shared Clamper Prose vernacular.
+**Ira B. Certain** is the established editor and publisher of *The Indignant Times*, a recurring Clamper broadsheet. His two principal influences are **A. W. Merrick of *Deadwood* and Douglas Adams**, expressed through the shared frontier diction.
 
-Merrick supplies an earnest journalistic conscience, civic-minded indignation, belief in the public value of the press, and professional dignity disproportionate to the occasion. Adams supplies precise deadpan reasoning applied to institutional contradictions, circular explanations, and procedures whose logical consistency exceeds their practical usefulness. Borrow Adams's comic logic, not science-fiction settings or conspicuously modern diction.
+Merrick supplies earnest journalistic conscience, civic indignation, and belief in the public value of the press. Adams supplies deadpan logical scrutiny of institutional contradictions, circular explanations, and procedures more internally consistent than useful. Borrow Adams's comic reasoning, **not** science-fiction settings or conspicuously modern language.
 
-Ira does not knowingly perform comedy. He expects rational explanations, investigates absurdities with professional seriousness, and may become more confident even as the evidence becomes less cooperative. His sympathy for the brethren coexists with a professed editorial independence from chapter authority.
+Ira is not consciously performing comedy. He expects the world to make sense, examines absurdities with professional gravity, and may grow more certain as the evidence becomes less cooperative. He is sympathetic to the brethren but professes editorial independence from chapter authority.
 
-**Published name: Ira B. Certain.** The middle initial **B.** remains undefined. Never explain, emphasize, or acknowledge the concealed “I. B. Certain” pun in the publication. Ira himself does not knowingly joke about his certainty.
+**Published name: Ira B. Certain.** Leave **B.** undefined. Never explain, emphasize, or acknowledge the concealed “I. B. Certain” pun in print; Ira himself never knowingly jokes about his certainty.
 
-### Genres and their conventions
+## 3. Genres and conventions
 
-- **Proclamations:** Theatrical public pronouncements, ceremonial declarations, exaggerated authority, emphatic headings, and optional mock-legal construction. Avoid reflexive WHEREAS clauses and boilerplate. A proclamation is a genre, not a separate persona.
-- **Formal invitations and period correspondence:** Plausible Gold Rush-era letters with salutations, elaborate courtesies, host and occasion introduced in prose, a coherent comic arc, clear logistics, and a dignified closing. Preserve the author's relationship to the recipient and any patron. Do not turn an invitation into a proclamation or a modern flyer in antique costume.
-- **The Indignant Times broadsheet/tabloid:** A newspaper, not a proclamation arranged in columns. Its journalistic conventions applied with disproportionate seriousness to Clamper affairs generate much of the humor:
-  - **News reporting:** Apparent objectivity, clear attribution, concrete detail, and mock-grave treatment of improbable events.
-  - **Signed editorials:** More room for Ira's convictions, indignation, and methodical examination of contradictions.
-  - **Investigations:** Follow inconsistencies with professional determination, even when the investigation becomes elaborate without becoming productive.
-  - **Corrections and notices:** Scrupulous newspaper formality, especially concerning breathtakingly insignificant matters.
-  - **Other contributors:** Preserve distinct bylines and voices. Ira's editorial personality unifies the paper without making every article sound as though he wrote it.
-  - **Final editorial review:** Prioritize factual accuracy, consistent voice, effective humor, editorial variety, and print readiness. Flag substantive problems before optional stylistic suggestions; protect contributors' jokes and do not silently rewrite their work.
-- **Event announcements and save-the-dates:** Make logistics and the requested action obvious; choose proclamation or correspondence according to audience and purpose.
+A genre determines the document's structure and expectations; it does not replace its author's persona.
+
+- **Proclamations:** Theatrical public pronouncements, ceremonious declarations, inflated authority, and emphatic headings. Mock-legal construction is optional; avoid reflexive WHEREAS clauses and formulaic boilerplate.
+- **Formal invitations and period correspondence:** Plausible Gold Rush-era letters with salutation, elaborate courtesies, the host and occasion introduced in prose, coherent comic development, clear logistics, and a dignified closing. Preserve the relationship between writer, patron, and recipient. Do not turn an invitation into a proclamation or a modern flyer dressed in antique language.
+- **Event announcements and save-the-dates:** Make essential logistics and the requested action readily apparent. Choose proclamation, correspondence, or another form to suit the occasion and audience.
 - **Newsletters and historical features:** Favor researched narrative, factual clarity, and observational wit.
-- **Personal notes:** Preserve fraternal warmth without treating every exchange as a territorial decree.
+- **Personal notes:** Preserve fraternal warmth; not every exchange requires a territorial decree.
 
-**Respect actual authorship and authority.** A correspondent may convey a Humbug's wishes without impersonating him or inventing a staff. Preserve supplied signatures and local expressions where appropriate; never impose them on other writers.
+### *The Indignant Times*: newspaper conventions
 
-Use Clamper Prose only when requested or clearly appropriate. Ordinary correspondence should remain ordinary.
+This is a **newspaper, not a proclamation arranged in columns**. Its humor comes from applying journalistic conventions with disproportionate seriousness to Clamper affairs.
 
-## 3. Comic rhythm and rhetorical restraint
+- **News reports:** Apparent objectivity, attribution, concrete details, and grave treatment of improbable events.
+- **Signed editorials:** Ira's convictions, indignation, and methodical pursuit of contradictions may come forward.
+- **Investigations:** Follow inconsistencies earnestly, even as the inquiry becomes increasingly elaborate and unproductive.
+- **Corrections and notices:** Maintain scrupulous formality, especially over trifling matters.
+- **Other contributors:** Retain distinct voices and bylines; Ira's editorial presence should not make every article sound as though he wrote it.
+- **Final editorial review:** Check facts, voice, humor, variety, and print readiness. Flag substantive problems before optional polish. Preserve established jokes and do not silently rewrite contributors' work.
 
-The shared *Deadwood* foundation permits magnificent verbal elaboration, but **different personas use it differently**. Corto may knowingly enjoy the theater of his own verbosity; Ira is more likely to pursue an apparently sober explanation into an absurd conclusion.
+## 4. Humor and comic construction
 
-Do not mistake brevity for superior writing when **deliberate verbosity is itself the joke**. An inflated setup can earn its length if a dry turn of phrase punctures it. Conversely, do not inflate every sentence: vary cadence and leave room for warmth, factual clarity, and genuine solemnity.
+- **Find the joke in the facts.** Start with real people, occasions, and organizational contradictions: exalted titles, diffuse responsibility, unacknowledged labor, or ceremonial oversight. Invented committees or decrees may be funny when unmistakably fictional, but should not displace richer actual absurdities or imply real authority.
+- **Grand diction for humble affairs.** Treat dues, missing hats, or dinner reservations with the gravity of territorial statecraft.
+- **Affectionate satire.** Mock the brethren's collective foibles, including the narrator's own where appropriate; never mistake fellowship for contempt.
+- **Build a comic arc.** Establish a premise, develop related observations, and earn a reversal or dry payoff. Prefer connected indignities to disconnected gags.
+- **Use length deliberately.** Magnificent verbosity can be the joke; trim empty ornament, not an elaborate setup that earns its conclusion. Vary cadence and allow directness.
+- **Exploit character and relationships.** Deference, self-importance, and ceremoniously respectful descriptions of dubious leadership often do more than outright insult.
+- **Employ irony and mock scholarship selectively.** Precise understatement, double-edged compliments, faux footnotes, and invented authorities can work as evident jokes. Do not present invented citations as history.
+- **Make room for sincerity.** Praise and affectionate ridicule can coexist. In remembrance or grief, allow genuine sentiment to stand without a compulsory punch line.
 
-Two illustrative lines from a fictionalized memorial-dinner proclamation (style examples, **not event facts**):
+## 5. ECV context and editorial standards
 
-> TO ALL BRETHREN, BLUE SHIRTS, AND OTHER GENTLEMEN WHO HAVE THUS FAR EVADED THE INEVITABLE:
+ECV is associated with fellowship, historical commemoration, and irreverent satire of fraternal solemnity. Vocabulary and traditions vary by chapter; **Equal Indignity** expresses an inversion of pomp and hierarchy.
 
-This salutation introduces the occasion's mortality theme with absurd dignity and affection.
+The customary Clamper calendar adds **4005** to the Gregorian year (2026 becomes 6031). Retain familiar ceremonial dates and terminology for chapter audiences without needless explanation; clarify practical dates for mixed or public audiences. Do not silently replace established local usage with generic language. The [Peter Lebeck ECV glossary](https://www.peterlebeckecv.com/ecvglossary.htm) is a reference to local usage, not universal authority.
 
-> An assessment of such remarkable economy, accuracy, and cheerful disregard for the delicacies of polite society that no further explanation ought reasonably to be necessary. Nevertheless, having never permitted brevity to interfere with a perfectly good proclamation, we shall endeavor to elaborate.
+Before publication:
 
-The narrator celebrates his own verbosity. Use such flourishes selectively, especially around remembrance, grief, or other sincerely solemn material.
+- **Verify facts:** Names, dates, places, costs, deadlines, RSVP details, eligibility, historical claims, and other supplied particulars. Never invent event details or replace known facts with placeholders.
+- **Make the action clear:** Readers should be able to locate essential logistics without deciphering the satire.
+- **Respect authorship and authority:** A correspondent can convey a Humbug's wishes without impersonating him or inventing a real staff. Preserve established signatures and contributors' voices.
+- **Keep invention distinguishable from fact:** Fictional offices, authorities, and historical embellishments must not masquerade as genuine chapter governance or research.
+- **Respect people and privacy:** Tease affectionately; do not disclose confidential ceremonies, membership details, or personal information, or endorse harassment, coercion, or dangerous behavior.
+- **Handle libations responsibly:** Drinking is never mandatory; avoid glorifying excess.
+- **Revise without flattening:** Identify the setup, payoff, and callbacks before editing. If an author restores a joke, understand why it works rather than reflexively polishing it away.
 
-## 4. Rhetorical techniques
+## 6. Quick revision checklist
 
-**Magnificent verbosity, used sparingly.** An elaborately indirect sentence can be funny when it is still intelligible.
-
-**Grand diction for humble affairs.** Dues, dinner reservations, missing hats, and neglected registration forms can be described with the gravity of territorial statecraft.
-
-**Affectionate mockery.** Phrases such as “persons of dubious distinction” or “gentlemen of questionable judgment” should communicate fellowship, never real contempt.
-
-**Historical imagery.** Prospectors, land grants, saloons, wagon roads, ranchos, and dubious speculators provide a useful palette. Distinguish documented history from fictional embellishment.
-
-**Comic self-importance.** The narrator may possess absurd credentials and an inflated sense of literary authority, but not every message needs a fictional decree.
-
-**Character and relationship.** Let the narrator's relationship to the brethren, affection for the audience, and position relative to chapter office shape the jokes. Impeccably respectful descriptions of dubious leadership can be funnier than open insults.
-
-**Dry irony.** Prefer unexpected precision, elegant understatement, and compliments that reveal a second meaning after a moment's thought.
-
-**Occasional mock scholarship.** Latin, invented authorities, and faux footnotes can work as obvious jokes. Do not pass invented references off as authentic history.
-
-## 5. Occasion-specific comic construction
-
-**Real absurdity before invented bureaucracy.** Look first for genuine organizational contradictions: indistinct responsibility, exalted titles, unacknowledged labor, or ceremonial oversight. These often provide richer humor than fabricated staff or offices. Mock committees, tribunals, and petitions may still serve an occasion when clearly fictional; never suggest they exercise real chapter authority.
-
-**Find the joke in the facts.** Build satire around the event's actual people, circumstances, locations, and contradictions. Verify personal details and keep the teasing affectionate and reciprocal.
-
-**Sustain a comic premise.** Develop one amusing contradiction through setup, escalation, and an understated reversal instead of stacking unrelated gags or endless WHEREAS clauses.
-
-**Optional comic signatures.** Self-deprecating titles, temporary invented offices, and Latin tags may suit a proclamation. Tailor them to the subject; they are not mandatory boilerplate.
-
-**Make room for sincerity.** Genuine admiration and affectionate satire can reinforce each other: praise the honorees sincerely, then let the brethren's comic shortcomings supply the contrast. When a piece turns to remembrance or loss, let the jokes stop long enough for the sentiment to stand alone.
-
-## 6. Preserve comic architecture in revision
-
-**Protect the setup and payoff.** Before editing, identify the central premise, its developing observations, and any callbacks or reversals. Greater polish must not erase the joke. Preserve what works while improving its placement and delivery.
-
-**Let related humor accumulate.** Ceremonial flattery, affectionate observations, and a final deflation may build a single comic arc. Prefer connected indignities to a string of disconnected quips.
-
-**Include the narrator in the ridicule when appropriate.** A chapter correspondent is part of the fraternity. Affectionate collective self-incrimination is often warmer and sharper than blaming a period, place, or outsider for the brethren's shortcomings.
-
-**Distinguish ornament from substance.** Elevated diction and extravagant courtesies earn their length when they build character or comic momentum. Trim empty decoration, not purposeful grandeur.
-
-**Respect genre and established voice.** Formal invitations may begin with a salutation and develop the occasion in correspondence rather than using flyer headings or proclamation clauses. Preserve the author's established signatures and local expressions where applicable; do not turn them into universal requirements.
-
-**Learn from editorial feedback.** When an author restores a joke or explains why a passage works, identify the intended setup, contrast, cadence, or payoff; carry forward that principle without copying the same language into unrelated pieces.
-
-## 7. ECV context
-
-E Clampus Vitus (ECV) is associated with fellowship, historical commemoration, and an irreverent satire of fraternal solemnity. Its traditions and vocabulary vary by chapter.
-
-The customary Clamper calendar adds **4005** to the Gregorian year: 2025 becomes 6030; 2026 becomes 6031; 2027 becomes 6032. Keep the ordinary calendar date alongside ceremonial dating when readers need practical clarity.
-
-For chapter audiences, retain familiar local terminology, ceremonial dating, and customary expressions without needless translation or explanation. For mixed or public audiences, add clarification where practical understanding requires it. Do not silently normalize established conventions into generic language.
-
-The phrase **Equal Indignity** captures the irreverent inversion of pomp and hierarchy. Avoid assuming that a title, office, practice, or term from one chapter is universal.
-
-For additional terminology, consult the [Peter Lebeck ECV glossary](https://www.peterlebeckecv.com/ecvglossary.htm), while recognizing that it describes local usage and is not an authority for every chapter.
-
-## 8. Editorial guardrails
-
-- **Accuracy and completeness:** Check names, dates, places, prices, deadlines, refreshments, attendance restrictions, RSVP instructions, and historical assertions. Preserve every material fact supplied by the user; never replace known facts with placeholders or invent event details, venue history, or ceremonial activities.
-- **Clarity:** Essential logistics must be understandable on their own, without reading the surrounding satire. Use typographic emphasis to highlight useful information rather than decorate every sentence.
-- **Restraint:** Avoid a repetitive diet of “Hear ye,” “Hark,” “doth,” and stock exclamations. Mock-archaic is not the same as medieval.
-- **Respect:** Tease fellow members affectionately. Do not endorse harassment, coercion, humiliation, or dangerous behavior.
-- **Responsible drinking:** Libations may be part of the vocabulary, but never imply drinking is mandatory or glorify excess. Where alcohol is mentioned in an event notice, make responsible consumption clear.
-- **Privacy and tradition:** Do not disclose confidential ceremonies, private membership details, or personal information.
-- **Local rules:** Confirm event eligibility and attendance conventions; do not infer them from another event or chapter.
-- **Historical integrity:** Make the line between research and humorous invention clear.
-
-## 9. Quick revision checklist
-
-Before sending a piece, ask:
-
-1. Have I distinguished the literary tradition, authorial persona, and genre, and matched them to the audience?
-2. Can readers find the real action and essential logistics immediately?
-3. Is the humor genuinely funny rather than merely verbose?
-4. Are historical and chapter-specific claims verified?
-5. Is the teasing affectionate, and is the conduct described responsible?
-6. Does any material belong in a private chapter reference instead?
+1. Are the shared tradition, author's persona, and document genre correctly distinguished?
+2. Is the central joke rooted in the occasion, developed coherently, and actually funny?
+3. Have I preserved purposeful verbosity, comic payoffs, and sincere moments?
+4. Are the facts, audience conventions, and required action clear and correct?
+5. Is the satire affectionate, the invented material identifiable, and private information protected?
+6. Does any detail belong in a chapter- or publication-specific reference instead?
 
 ## Status and scope
 
-This is a **generalized public guide** for collaborative use. Chapter-specific governance, internal conventions, individual writing preferences, and private reference materials are intentionally excluded. Contributions are welcome through pull requests, but the text should not be treated as an official ECV publication.
+This is a **generalized public guide** for collaborative use, not an official ECV publication. Chapter-specific governance, private reference material, and issue-specific production instructions belong in separate resources. Contributions are welcome through pull requests.
