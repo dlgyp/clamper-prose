@@ -19,6 +19,8 @@ Not every communication is a proclamation.
 - **Newsletters and historical features:** Favor narrative, researched detail, and wry commentary over relentless bombast.
 - **Personal notes:** Keep the fraternal warmth and wit; avoid addressing a friend as though issuing a territorial decree.
 
+**Period correspondence:** Build a plausible letter through salutation, social courtesies, narrative development, and an appropriate closing. Historical voice comes from the form and relationships, not from sprinkling archaic words over a modern flyer. Avoid turning every invitation into a proclamation.
+
 Use this style only when requested or clearly appropriate. Ordinary correspondence should remain ordinary.
 
 ## 3. The Farnum–Twain balance
@@ -49,13 +51,15 @@ The narrator openly celebrates his own verbosity; that self-awareness makes the 
 
 **Comic self-importance.** The narrator may possess absurd credentials and an inflated sense of literary authority, but not every message needs a fictional decree.
 
+**Character and relationship.** Let the narrator's position among the brethren, affection for the audience, and ceremonious deference to office shape the jokes. Impeccably respectful descriptions of dubious leadership can be funnier than open insults.
+
 **Dry irony.** Prefer unexpected precision, elegant understatement, and compliments that reveal a second meaning after a moment's thought.
 
 **Occasional mock scholarship.** Latin, invented authorities, and faux footnotes can work as obvious jokes. Do not pass invented references off as authentic history.
 
 ## 5. Occasion-specific comic construction
 
-**Purposeful invented bureaucracy.** Mock committees, tribunals, petitions, and absurd offices can make everyday disputes comic theater. Invent them for the occasion rather than recycling stock names, and never suggest they exercise real chapter authority.
+**Real absurdity before invented bureaucracy.** Look first for genuine organizational contradictions: indistinct responsibility, exalted titles, unacknowledged labor, or ceremonial oversight. These often provide richer humor than fabricated staff or offices. Mock committees, tribunals, and petitions may still serve an occasion when clearly fictional; never suggest they exercise real chapter authority.
 
 **Find the joke in the facts.** Build satire around the event's actual people, circumstances, locations, and contradictions. Verify personal details and keep the teasing affectionate and reciprocal.
 
@@ -63,7 +67,7 @@ The narrator openly celebrates his own verbosity; that self-awareness makes the 
 
 **Optional comic signatures.** Self-deprecating titles, temporary invented offices, and Latin tags may suit a proclamation. Tailor them to the subject; they are not mandatory boilerplate.
 
-**Make room for sincerity.** When a piece turns to remembrance or loss, let the jokes stop long enough for the sentiment to stand alone.
+**Make room for sincerity.** Genuine admiration and affectionate satire can reinforce each other: praise the honorees sincerely, then let the brethren's comic shortcomings supply the contrast. When a piece turns to remembrance or loss, let the jokes stop long enough for the sentiment to stand alone.
 
 ## 6. Preserve comic architecture in revision
 
@@ -77,13 +81,15 @@ The narrator openly celebrates his own verbosity; that self-awareness makes the 
 
 **Respect genre and established voice.** Formal invitations may begin with a salutation and develop the occasion in correspondence rather than using flyer headings or proclamation clauses. Preserve the author's established signatures and local expressions where applicable; do not turn them into universal requirements.
 
-**Learn from editorial feedback.** When an author restores a joke or explains why a passage works, carry forward the principle without copying the same language into unrelated pieces.
+**Learn from editorial feedback.** When an author restores a joke or explains why a passage works, identify the intended setup, contrast, cadence, or payoff; carry forward that principle without copying the same language into unrelated pieces.
 
 ## 7. ECV context
 
 E Clampus Vitus (ECV) is associated with fellowship, historical commemoration, and an irreverent satire of fraternal solemnity. Its traditions and vocabulary vary by chapter.
 
 The customary Clamper calendar adds **4005** to the Gregorian year: 2025 becomes 6030; 2026 becomes 6031; 2027 becomes 6032. Keep the ordinary calendar date alongside ceremonial dating when readers need practical clarity.
+
+For chapter audiences, retain familiar local terminology, ceremonial dating, and customary expressions without needless translation or explanation. For mixed or public audiences, add clarification where practical understanding requires it. Do not silently normalize established conventions into generic language.
 
 The phrase **Equal Indignity** captures the irreverent inversion of pomp and hierarchy. Avoid assuming that a title, office, practice, or term from one chapter is universal.
 
