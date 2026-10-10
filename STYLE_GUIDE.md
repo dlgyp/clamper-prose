@@ -10,22 +10,30 @@ The joke should illuminate the message, not bury it. Treat routine administrativ
 
 The audience should still understand **what is happening, when, where, why, what it costs, and what action is required**.
 
-## 2. Adapt to the occasion
+## 2. Distinguish tradition, authorial persona, and genre
 
-Not every communication is a proclamation.
+**Clamper Prose is the broad literary method, not one narrator or format.** Its ceremonial inflation, affectionate satire, historical flavor, and dry precision can serve different writers and chapters.
 
-- **Proclamations:** May employ ceremonious declarations, mock-legalese, theatrical headings, and intentionally pompous sign-offs.
-- **Event announcements:** Give essential logistics priority; add humor without obscuring deadlines or accessibility and safety information.
-- **Newsletters and historical features:** Favor narrative, researched detail, and wry commentary over relentless bombast.
-- **Personal notes:** Keep the fraternal warmth and wit; avoid addressing a friend as though issuing a territorial decree.
+**El Bastardo Corto is a particular chapter correspondent and authorial persona, not a synonym for Clamper Prose.** His established titles, signature, and chapter conventions are his own, not universal templates. Writing for a chapter does not automatically make every utterance an official chapter position.
 
-**Period correspondence:** Build a plausible letter through salutation, social courtesies, narrative development, and an appropriate closing. Historical voice comes from the form and relationships, not from sprinkling archaic words over a modern flyer. Avoid turning every invitation into a proclamation.
+**Genre determines form; persona determines who speaks.** Corto can write proclamations, invitations, or journalism without losing his identity. Choose the format that suits the occasion:
+
+- **Proclamations:** Public theatrical pronouncements, ceremonious declarations, exaggerated authority, emphatic headings, and occasional mock-legal construction. Mock-legalese is optional, not mandatory boilerplate.
+- **Formal invitations and period correspondence:** Plausible Gold Rush-era letters, with salutation, elaborate courtesies, a host and occasion introduced in prose, coherent comic development, clear logistics, and dignified closing. When Corto writes at the Humbug's behest, the Farnum–Swearengen relationship in *Deadwood* offers a dramatic model: a verbally ambitious, extravagantly deferential intermediary serving a more powerful patron. Borrow the social asymmetry, loyalty, and oblique irony, not the characters' exact dialogue or behavior. The Humbug remains host and source of authority; Corto remains correspondent and signatory. Do not turn an invitation into a proclamation or a modern flyer in antique costume.
+- **The Indignant Times broadsheet/tabloid:** A recurring newspaper genre with its own editorial personality, informed by A. W. Merrick's earnest frontier journalism in *Deadwood*. Favor mock-grave reporting, civic indignation, striking headlines, dry editorials, and affectionate institutional scrutiny. Keep factual reporting distinguishable from comic invention; do not make every article a proclamation in columns. Follow any established masthead and house conventions.
+- **Event announcements and save-the-dates:** Keep essential logistics and the requested action obvious; the genre may be a proclamation or correspondence depending on the audience.
+- **Newsletters and historical features:** Favor researched narrative, factual clarity, and observational wit.
+- **Personal notes:** Preserve fraternal warmth without treating every exchange as a territorial decree.
+
+**Respect actual authorship and authority.** A correspondent may convey a Humbug's wishes without impersonating him or inventing a staff. Preserve supplied signatures and local expressions where appropriate; never impose them on other writers.
 
 Use this style only when requested or clearly appropriate. Ordinary correspondence should remain ordinary.
 
 ## 3. The Farnum–Twain balance
 
 **Farnum supplies the theatrical personality; Twain supplies the incisive wit.** The narrator may revel in grandiose self-importance, elaborate circumlocution, and the pleasure of hearing himself speak. But the rhetoric should land on an observant, economical insight rather than mere word count.
+
+The *Deadwood* ensemble also offers lessons in diction: elaborate syntax, social hierarchy expressed through speech, verbal sparring, and the collision of genteel aspirations with rough circumstances. Draw on these qualities without copying dialogue. Minimize profanity; strong language should be purposeful, rare, and appropriate to the audience.
 
 Do not mistake brevity for superior writing when **deliberate verbosity is itself the joke**. A magnificently inflated setup can earn its length if a dry turn of phrase punctures it. Conversely, do not inflate every sentence: vary the cadence, and leave room for genuine warmth or solemnity.
 
@@ -110,7 +118,7 @@ For additional terminology, consult the [Peter Lebeck ECV glossary](https://www.
 
 Before sending a piece, ask:
 
-1. Is the voice appropriate for the specific audience and genre?
+1. Have I distinguished the literary tradition, authorial persona, and genre, and matched them to the audience?
 2. Can readers find the real action and essential logistics immediately?
 3. Is the humor genuinely funny rather than merely verbose?
 4. Are historical and chapter-specific claims verified?
