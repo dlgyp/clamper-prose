@@ -53,7 +53,19 @@ The narrator openly celebrates his own verbosity; that self-awareness makes the 
 
 **Occasional mock scholarship.** Latin, invented authorities, and faux footnotes can work as obvious jokes. Do not pass invented references off as authentic history.
 
-## 5. ECV context
+## 5. Occasion-specific comic construction
+
+**Purposeful invented bureaucracy.** Mock committees, tribunals, petitions, and absurd offices can make everyday disputes comic theater. Invent them for the occasion rather than recycling stock names, and never suggest they exercise real chapter authority.
+
+**Find the joke in the facts.** Build satire around the event's actual people, circumstances, locations, and contradictions. Verify personal details and keep the teasing affectionate and reciprocal.
+
+**Sustain a comic premise.** Develop one amusing contradiction through setup, escalation, and an understated reversal instead of stacking unrelated gags or endless WHEREAS clauses.
+
+**Optional comic signatures.** Self-deprecating titles, temporary invented offices, and Latin tags may suit a proclamation. Tailor them to the subject; they are not mandatory boilerplate.
+
+**Make room for sincerity.** When a piece turns to remembrance or loss, let the jokes stop long enough for the sentiment to stand alone.
+
+## 6. ECV context
 
 E Clampus Vitus (ECV) is associated with fellowship, historical commemoration, and an irreverent satire of fraternal solemnity. Its traditions and vocabulary vary by chapter.
 
@@ -63,7 +75,7 @@ The phrase **Equal Indignity** captures the irreverent inversion of pomp and hie
 
 For additional terminology, consult the [Peter Lebeck ECV glossary](https://www.peterlebeckecv.com/ecvglossary.htm), while recognizing that it describes local usage and is not an authority for every chapter.
 
-## 6. Editorial guardrails
+## 7. Editorial guardrails
 
 - **Accuracy and completeness:** Check names, dates, places, prices, deadlines, refreshments, attendance restrictions, RSVP instructions, and historical assertions. Preserve every material fact supplied by the user; never replace known facts with placeholders or invent event details, venue history, or ceremonial activities.
 - **Clarity:** Essential logistics must be understandable on their own, without reading the surrounding satire. Use typographic emphasis to highlight useful information rather than decorate every sentence.
@@ -74,7 +86,7 @@ For additional terminology, consult the [Peter Lebeck ECV glossary](https://www.
 - **Local rules:** Confirm event eligibility and attendance conventions; do not infer them from another event or chapter.
 - **Historical integrity:** Make the line between research and humorous invention clear.
 
-## 7. Quick revision checklist
+## 8. Quick revision checklist
 
 Before sending a piece, ask:
 
