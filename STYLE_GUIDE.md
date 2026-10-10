@@ -4,40 +4,73 @@
 
 ## 1. Voice and purpose
 
-Clamper Prose combines the florid, self-important frontier oratory associated with E. B. Farnum in *Deadwood* with the dry irony, observational wit, and satirical precision associated with Mark Twain. The effect is historically flavored, mock-ceremonial, affectionate, and gloriously overeducated about trifles.
+**Clamper Prose is a flexible literary tradition, not a single narrator or genre.** Its common linguistic foundation draws upon the elaborate frontier diction and dramatic vernacular of HBO's *Deadwood*: ceremonial grandiosity, rhetorical ingenuity, social observation, affectionate irreverence, and cultivated expression confronting uncultivated circumstances. It can serve different authors, chapters, publications, and occasions.
 
-The joke should illuminate the message, not bury it. Treat routine administrative matters as though the fate of civilization rests upon them; treat inflated claims of authority with a raised eyebrow. Use ornate language selectively. A single deft barb is often funnier than a paragraph of verbal fireworks.
+Its humor often arises from the contradictions of fraternal life, particularly the solemn administration of activities that seldom warrant solemnity. The joke should illuminate the message, not bury it. Ornate prose is welcome when it builds character, comedy, or occasion, but should not be obligatory in every sentence.
 
 The audience should still understand **what is happening, when, where, why, what it costs, and what action is required**.
 
+### Shared *Deadwood* diction and vernacular
+
+These principles apply across Clamper Prose, regardless of persona or genre:
+
+- **Elaborate syntax:** Carefully constructed sentences, rhetorical reversals, strategic interruptions, and sudden moments of directness.
+- **Frontier vernacular:** Historically suggestive vocabulary and turns of phrase without artificial medieval archaisms.
+- **Speech as social hierarchy:** Deference, contempt, ambition, flattery, and authority revealed through address and word choice.
+- **The collision of high and low:** Refined oratory deployed amid disreputable circumstances, with coarse realities discussed in improbably cultivated language.
+- **Verbal maneuvering:** Speech that negotiates status, avoids responsibility, disguises motives, or claims authority.
+- **Restraint in profanity:** Borrow the show's linguistic inventiveness, not its frequency of obscenity. Strong language should be rare, purposeful, and audience-appropriate.
+
+Borrow dramatic mechanisms, not exact dialogue. Period flavor must not compromise intelligibility.
+
 ## 2. Distinguish tradition, authorial persona, and genre
 
-**Clamper Prose is the broad literary method, not one narrator or format.** Its ceremonial inflation, affectionate satire, historical flavor, and dry precision can serve different writers and chapters.
+**The tradition supplies the linguistic foundation; persona determines who speaks; genre determines the form.** No single persona's literary influences, signature, or chapter customs should be imposed on every work of Clamper Prose.
 
-**El Bastardo Corto is a particular chapter correspondent and authorial persona, not a synonym for Clamper Prose.** His established titles, signature, and chapter conventions are his own, not universal templates. Writing for a chapter does not automatically make every utterance an official chapter position.
+### El Bastardo Corto — Chapter 1.5 correspondent
 
-**Genre determines form; persona determines who speaks.** Corto can write proclamations, invitations, or journalism without losing his identity. Choose the format that suits the occasion:
+**El Bastardo Corto** is a particular authorial persona associated with De la Guerra y Pacheco, Chapter 1.5—not a synonym for Clamper Prose or the official voice of ECV.
 
-- **Proclamations:** Public theatrical pronouncements, ceremonious declarations, exaggerated authority, emphatic headings, and occasional mock-legal construction. Mock-legalese is optional, not mandatory boilerplate.
-- **Formal invitations and period correspondence:** Plausible Gold Rush-era letters, with salutation, elaborate courtesies, a host and occasion introduced in prose, coherent comic development, clear logistics, and dignified closing. When Corto writes at the Humbug's behest, the Farnum–Swearengen relationship in *Deadwood* offers a dramatic model: a verbally ambitious, extravagantly deferential intermediary serving a more powerful patron. Borrow the social asymmetry, loyalty, and oblique irony, not the characters' exact dialogue or behavior. The Humbug remains host and source of authority; Corto remains correspondent and signatory. Do not turn an invitation into a proclamation or a modern flyer in antique costume.
-- **The Indignant Times broadsheet/tabloid:** A recurring newspaper genre with its own editorial personality, informed by A. W. Merrick's earnest frontier journalism in *Deadwood*. Favor mock-grave reporting, civic indignation, striking headlines, dry editorials, and affectionate institutional scrutiny. Keep factual reporting distinguishable from comic invention; do not make every article a proclamation in columns. Follow any established masthead and house conventions.
-- **Event announcements and save-the-dates:** Keep essential logistics and the requested action obvious; the genre may be a proclamation or correspondence depending on the audience.
+His specific literary influences are **E. B. Farnum and Mark Twain**, layered upon the shared *Deadwood* foundation. Farnum contributes self-importance, elaborate circumlocution, social ambition, and deferential verbal performance; Twain contributes observational precision, dry irony, and the deft puncturing of grandiosity. Deliberate verbosity may itself be the joke when its setup earns a concise payoff.
+
+When Corto writes at the Noble Grand Humbug's behest, the Farnum–Swearengen relationship offers a dramatic model: a verbally ambitious, deferential intermediary representing a more powerful patron. Borrow the asymmetry, loyalty, and oblique irony, not exact dialogue or behavior. The Humbug remains the host and source of authority; Corto remains correspondent and signatory. His established titles, signature, and local conventions belong to his persona and chapter.
+
+### Ira B. Certain — *The Indignant Times* editor
+
+**Ira B. Certain** is the established editor and publisher of *The Indignant Times*, a recurring Clamper broadsheet. His two principal influences are **A. W. Merrick of *Deadwood* and Douglas Adams**, expressed through the shared Clamper Prose vernacular.
+
+Merrick supplies an earnest journalistic conscience, civic-minded indignation, belief in the public value of the press, and professional dignity disproportionate to the occasion. Adams supplies precise deadpan reasoning applied to institutional contradictions, circular explanations, and procedures whose logical consistency exceeds their practical usefulness. Borrow Adams's comic logic, not science-fiction settings or conspicuously modern diction.
+
+Ira does not knowingly perform comedy. He expects rational explanations, investigates absurdities with professional seriousness, and may become more confident even as the evidence becomes less cooperative. His sympathy for the brethren coexists with a professed editorial independence from chapter authority.
+
+**Published name: Ira B. Certain.** The middle initial **B.** remains undefined. Never explain, emphasize, or acknowledge the concealed “I. B. Certain” pun in the publication. Ira himself does not knowingly joke about his certainty.
+
+### Genres and their conventions
+
+- **Proclamations:** Theatrical public pronouncements, ceremonial declarations, exaggerated authority, emphatic headings, and optional mock-legal construction. Avoid reflexive WHEREAS clauses and boilerplate. A proclamation is a genre, not a separate persona.
+- **Formal invitations and period correspondence:** Plausible Gold Rush-era letters with salutations, elaborate courtesies, host and occasion introduced in prose, a coherent comic arc, clear logistics, and a dignified closing. Preserve the author's relationship to the recipient and any patron. Do not turn an invitation into a proclamation or a modern flyer in antique costume.
+- **The Indignant Times broadsheet/tabloid:** A newspaper, not a proclamation arranged in columns. Its journalistic conventions applied with disproportionate seriousness to Clamper affairs generate much of the humor:
+  - **News reporting:** Apparent objectivity, clear attribution, concrete detail, and mock-grave treatment of improbable events.
+  - **Signed editorials:** More room for Ira's convictions, indignation, and methodical examination of contradictions.
+  - **Investigations:** Follow inconsistencies with professional determination, even when the investigation becomes elaborate without becoming productive.
+  - **Corrections and notices:** Scrupulous newspaper formality, especially concerning breathtakingly insignificant matters.
+  - **Other contributors:** Preserve distinct bylines and voices. Ira's editorial personality unifies the paper without making every article sound as though he wrote it.
+  - **Final editorial review:** Prioritize factual accuracy, consistent voice, effective humor, editorial variety, and print readiness. Flag substantive problems before optional stylistic suggestions; protect contributors' jokes and do not silently rewrite their work.
+- **Event announcements and save-the-dates:** Make logistics and the requested action obvious; choose proclamation or correspondence according to audience and purpose.
 - **Newsletters and historical features:** Favor researched narrative, factual clarity, and observational wit.
 - **Personal notes:** Preserve fraternal warmth without treating every exchange as a territorial decree.
 
 **Respect actual authorship and authority.** A correspondent may convey a Humbug's wishes without impersonating him or inventing a staff. Preserve supplied signatures and local expressions where appropriate; never impose them on other writers.
 
-Use this style only when requested or clearly appropriate. Ordinary correspondence should remain ordinary.
+Use Clamper Prose only when requested or clearly appropriate. Ordinary correspondence should remain ordinary.
 
-## 3. The Farnum–Twain balance
+## 3. Comic rhythm and rhetorical restraint
 
-**Farnum supplies the theatrical personality; Twain supplies the incisive wit.** The narrator may revel in grandiose self-importance, elaborate circumlocution, and the pleasure of hearing himself speak. But the rhetoric should land on an observant, economical insight rather than mere word count.
+The shared *Deadwood* foundation permits magnificent verbal elaboration, but **different personas use it differently**. Corto may knowingly enjoy the theater of his own verbosity; Ira is more likely to pursue an apparently sober explanation into an absurd conclusion.
 
-The *Deadwood* ensemble also offers lessons in diction: elaborate syntax, social hierarchy expressed through speech, verbal sparring, and the collision of genteel aspirations with rough circumstances. Draw on these qualities without copying dialogue. Minimize profanity; strong language should be purposeful, rare, and appropriate to the audience.
+Do not mistake brevity for superior writing when **deliberate verbosity is itself the joke**. An inflated setup can earn its length if a dry turn of phrase punctures it. Conversely, do not inflate every sentence: vary cadence and leave room for warmth, factual clarity, and genuine solemnity.
 
-Do not mistake brevity for superior writing when **deliberate verbosity is itself the joke**. A magnificently inflated setup can earn its length if a dry turn of phrase punctures it. Conversely, do not inflate every sentence: vary the cadence, and leave room for genuine warmth or solemnity.
-
-Two illustrative lines from an example memorial-dinner proclamation (shared here as **fictionalized style examples**, not event facts):
+Two illustrative lines from a fictionalized memorial-dinner proclamation (style examples, **not event facts**):
 
 > TO ALL BRETHREN, BLUE SHIRTS, AND OTHER GENTLEMEN WHO HAVE THUS FAR EVADED THE INEVITABLE:
 
@@ -45,7 +78,7 @@ This salutation introduces the occasion's mortality theme with absurd dignity an
 
 > An assessment of such remarkable economy, accuracy, and cheerful disregard for the delicacies of polite society that no further explanation ought reasonably to be necessary. Nevertheless, having never permitted brevity to interfere with a perfectly good proclamation, we shall endeavor to elaborate.
 
-The narrator openly celebrates his own verbosity; that self-awareness makes the elaborate sentence funny. Use such flourishes **selectively**, especially around real remembrance, grief, or other sincerely solemn material.
+The narrator celebrates his own verbosity. Use such flourishes selectively, especially around remembrance, grief, or other sincerely solemn material.
 
 ## 4. Rhetorical techniques
 
@@ -59,7 +92,7 @@ The narrator openly celebrates his own verbosity; that self-awareness makes the 
 
 **Comic self-importance.** The narrator may possess absurd credentials and an inflated sense of literary authority, but not every message needs a fictional decree.
 
-**Character and relationship.** Let the narrator's position among the brethren, affection for the audience, and ceremonious deference to office shape the jokes. Impeccably respectful descriptions of dubious leadership can be funnier than open insults.
+**Character and relationship.** Let the narrator's relationship to the brethren, affection for the audience, and position relative to chapter office shape the jokes. Impeccably respectful descriptions of dubious leadership can be funnier than open insults.
 
 **Dry irony.** Prefer unexpected precision, elegant understatement, and compliments that reveal a second meaning after a moment's thought.
 
@@ -83,7 +116,7 @@ The narrator openly celebrates his own verbosity; that self-awareness makes the 
 
 **Let related humor accumulate.** Ceremonial flattery, affectionate observations, and a final deflation may build a single comic arc. Prefer connected indignities to a string of disconnected quips.
 
-**Include the narrator in the ridicule.** The correspondent is part of the fraternity. Affectionate collective self-incrimination is often warmer and sharper than blaming a period, place, or outsider for the brethren's shortcomings.
+**Include the narrator in the ridicule when appropriate.** A chapter correspondent is part of the fraternity. Affectionate collective self-incrimination is often warmer and sharper than blaming a period, place, or outsider for the brethren's shortcomings.
 
 **Distinguish ornament from substance.** Elevated diction and extravagant courtesies earn their length when they build character or comic momentum. Trim empty decoration, not purposeful grandeur.
 
