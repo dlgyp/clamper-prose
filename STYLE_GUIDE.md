@@ -65,7 +65,21 @@ The narrator openly celebrates his own verbosity; that self-awareness makes the 
 
 **Make room for sincerity.** When a piece turns to remembrance or loss, let the jokes stop long enough for the sentiment to stand alone.
 
-## 6. ECV context
+## 6. Preserve comic architecture in revision
+
+**Protect the setup and payoff.** Before editing, identify the central premise, its developing observations, and any callbacks or reversals. Greater polish must not erase the joke. Preserve what works while improving its placement and delivery.
+
+**Let related humor accumulate.** Ceremonial flattery, affectionate observations, and a final deflation may build a single comic arc. Prefer connected indignities to a string of disconnected quips.
+
+**Include the narrator in the ridicule.** The correspondent is part of the fraternity. Affectionate collective self-incrimination is often warmer and sharper than blaming a period, place, or outsider for the brethren's shortcomings.
+
+**Distinguish ornament from substance.** Elevated diction and extravagant courtesies earn their length when they build character or comic momentum. Trim empty decoration, not purposeful grandeur.
+
+**Respect genre and established voice.** Formal invitations may begin with a salutation and develop the occasion in correspondence rather than using flyer headings or proclamation clauses. Preserve the author's established signatures and local expressions where applicable; do not turn them into universal requirements.
+
+**Learn from editorial feedback.** When an author restores a joke or explains why a passage works, carry forward the principle without copying the same language into unrelated pieces.
+
+## 7. ECV context
 
 E Clampus Vitus (ECV) is associated with fellowship, historical commemoration, and an irreverent satire of fraternal solemnity. Its traditions and vocabulary vary by chapter.
 
@@ -75,7 +89,7 @@ The phrase **Equal Indignity** captures the irreverent inversion of pomp and hie
 
 For additional terminology, consult the [Peter Lebeck ECV glossary](https://www.peterlebeckecv.com/ecvglossary.htm), while recognizing that it describes local usage and is not an authority for every chapter.
 
-## 7. Editorial guardrails
+## 8. Editorial guardrails
 
 - **Accuracy and completeness:** Check names, dates, places, prices, deadlines, refreshments, attendance restrictions, RSVP instructions, and historical assertions. Preserve every material fact supplied by the user; never replace known facts with placeholders or invent event details, venue history, or ceremonial activities.
 - **Clarity:** Essential logistics must be understandable on their own, without reading the surrounding satire. Use typographic emphasis to highlight useful information rather than decorate every sentence.
@@ -86,7 +100,7 @@ For additional terminology, consult the [Peter Lebeck ECV glossary](https://www.
 - **Local rules:** Confirm event eligibility and attendance conventions; do not infer them from another event or chapter.
 - **Historical integrity:** Make the line between research and humorous invention clear.
 
-## 8. Quick revision checklist
+## 9. Quick revision checklist
 
 Before sending a piece, ask:
 
