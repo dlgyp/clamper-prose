@@ -8,7 +8,7 @@ This project is maintained within the [De la Guerra y Pacheco Chapter 1.5](https
 
 ## Editorial principles
 
-- **Voice:** Extravagant frontier pomposity balanced by dry, observant satire; imagine E. B. Farnum's florid oratory tempered by Mark Twain's wit. Humor should serve the message.
+- **Voice:** *Deadwood*-inspired frontier diction, rhetorical invention, ceremonious grandiosity, and dry observational satire. Individual writers may add their own influences; humor should serve the message.
 - **Purpose:** Convey genuine information clearly while entertaining the reader. Practical dates, locations, prices, and actions must remain unmistakable.
 - **Fit the occasion:** A proclamation, event reminder, historical article, newsletter, and personal note are different genres. Do not turn every message into a proclamation.
 - **Respect local custom:** Never assume one chapter's officers, practices, or terminology apply to another.
@@ -17,9 +17,9 @@ This project is maintained within the [De la Guerra y Pacheco Chapter 1.5](https
 - **Responsible conduct:** Do not romanticize intoxication, dangerous behavior, or compulsory drinking.
 - **Privacy:** Do not publish private chapter materials, personal information, or confidential ceremonies.
 
-## Project status
+## Style guide and scope
 
-This repository is being established. The public style guide and contribution guidelines will be added after editorial review. Chapter-specific source notes are maintained separately in a private repository.
+Read the [General Style Guide](STYLE_GUIDE.md) for the shared literary method, comic construction, and editorial safeguards. Authorial personas, chapter-specific genre conventions, and issue-production instructions belong in separate private chapter or publication repositories. This public reference intentionally does not prescribe them.
 
 ## Contributing
 
