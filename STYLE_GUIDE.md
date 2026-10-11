@@ -18,48 +18,13 @@ Apply these *Deadwood*-inspired techniques across Clamper Prose:
 
 Borrow dramatic mechanisms, **not exact dialogue**. Period flavor must remain intelligible.
 
-## 2. Authorial personas
+## 2. Applying the tradition
 
-**The tradition supplies the language; the persona determines who speaks; the genre determines the form.** Do not impose one author's literary influences, titles, signature, or chapter customs on another.
+**The tradition supplies a literary foundation; individual writers and publications establish their own voices and forms.** Different authors may draw on additional influences without making them universal Clamper Prose requirements.
 
-### El Bastardo Corto — Chapter 1.5 correspondent
+Choose a form suited to the occasion and audience. Public announcements, period correspondence, historical features, journalism, and personal notes have different structural expectations. Let the format serve the communication rather than forcing every piece into a ceremonial proclamation.
 
-El Bastardo Corto is an established authorial persona associated with **De la Guerra y Pacheco, Chapter 1.5**, not a synonym for Clamper Prose or the official voice of ECV.
-
-His particular influences are **E. B. Farnum and Mark Twain**, layered upon the shared *Deadwood* foundation. Farnum lends theatrical self-importance, circumlocution, social ambition, and deferential performance; Twain lends observational precision, dry irony, and the economical puncturing of grandiosity. Corto may knowingly delight in his own verbal excess, provided the joke rewards it.
-
-When writing at the Noble Grand Humbug's behest, Corto may draw on the **Farnum–Swearengen dynamic**: a verbally ambitious intermediary representing a more powerful patron. Borrow the social asymmetry, loyalty, and oblique irony, not the characters' exact dialogue or behavior. The Humbug remains host and source of authority; Corto remains correspondent and signatory. Preserve Corto's established titles, signature, and local conventions where supplied, but never generalize them to other writers.
-
-### Ira B. Certain — *The Indignant Times* editor
-
-**Ira B. Certain** is the established editor and publisher of *The Indignant Times*, a recurring Clamper broadsheet. His two principal influences are **A. W. Merrick of *Deadwood* and Douglas Adams**, expressed through the shared frontier diction.
-
-Merrick supplies earnest journalistic conscience, civic indignation, and belief in the public value of the press. Adams supplies deadpan logical scrutiny of institutional contradictions, circular explanations, and procedures more internally consistent than useful. Borrow Adams's comic reasoning, **not** science-fiction settings or conspicuously modern language.
-
-Ira is not consciously performing comedy. He expects the world to make sense, examines absurdities with professional gravity, and may grow more certain as the evidence becomes less cooperative. He is sympathetic to the brethren but professes editorial independence from chapter authority.
-
-**Published name: Ira B. Certain.** Leave **B.** undefined. Never explain, emphasize, or acknowledge the concealed “I. B. Certain” pun in print; Ira himself never knowingly jokes about his certainty.
-
-## 3. Genres and conventions
-
-A genre determines the document's structure and expectations; it does not replace its author's persona.
-
-- **Proclamations:** Theatrical public pronouncements, ceremonious declarations, inflated authority, and emphatic headings. Mock-legal construction is optional; avoid reflexive WHEREAS clauses and formulaic boilerplate.
-- **Formal invitations and period correspondence:** Plausible Gold Rush-era letters with salutation, elaborate courtesies, the host and occasion introduced in prose, coherent comic development, clear logistics, and a dignified closing. Preserve the relationship between writer, patron, and recipient. Do not turn an invitation into a proclamation or a modern flyer dressed in antique language.
-- **Event announcements and save-the-dates:** Make essential logistics and the requested action readily apparent. Choose proclamation, correspondence, or another form to suit the occasion and audience.
-- **Newsletters and historical features:** Favor researched narrative, factual clarity, and observational wit.
-- **Personal notes:** Preserve fraternal warmth; not every exchange requires a territorial decree.
-
-### *The Indignant Times*: newspaper conventions
-
-This is a **newspaper, not a proclamation arranged in columns**. Its humor comes from applying journalistic conventions with disproportionate seriousness to Clamper affairs.
-
-- **News reports:** Apparent objectivity, attribution, concrete details, and grave treatment of improbable events.
-- **Signed editorials:** Ira's convictions, indignation, and methodical pursuit of contradictions may come forward.
-- **Investigations:** Follow inconsistencies earnestly, even as the inquiry becomes increasingly elaborate and unproductive.
-- **Corrections and notices:** Maintain scrupulous formality, especially over trifling matters.
-- **Other contributors:** Retain distinct voices and bylines; Ira's editorial presence should not make every article sound as though he wrote it.
-- **Final editorial review:** Check facts, voice, humor, variety, and print readiness. Flag substantive problems before optional polish. Preserve established jokes and do not silently rewrite contributors' work.
+Authorial personas, signatures, chapter-specific genre conventions, and publication production requirements belong in their respective chapter or editorial references.
 
 ## 4. Humor and comic construction
 
@@ -82,7 +47,7 @@ Before publication:
 
 - **Verify facts:** Names, dates, places, costs, deadlines, RSVP details, eligibility, historical claims, and other supplied particulars. Never invent event details or replace known facts with placeholders.
 - **Make the action clear:** Readers should be able to locate essential logistics without deciphering the satire.
-- **Respect authorship and authority:** A correspondent can convey a Humbug's wishes without impersonating him or inventing a real staff. Preserve established signatures and contributors' voices.
+- **Respect authorship and authority:** A correspondent may convey a chapter officer's wishes without impersonating that officer or inventing an actual staff. Preserve contributors' voices and established signatures where applicable.
 - **Keep invention distinguishable from fact:** Fictional offices, authorities, and historical embellishments must not masquerade as genuine chapter governance or research.
 - **Respect people and privacy:** Tease affectionately; do not disclose confidential ceremonies, membership details, or personal information, or endorse harassment, coercion, or dangerous behavior.
 - **Handle libations responsibly:** Drinking is never mandatory; avoid glorifying excess.
@@ -90,12 +55,12 @@ Before publication:
 
 ## 6. Quick revision checklist
 
-1. Are the shared tradition, author's persona, and document genre correctly distinguished?
+1. Does the piece suit its audience, author's voice, and intended form?
 2. Is the central joke rooted in the occasion, developed coherently, and actually funny?
 3. Have I preserved purposeful verbosity, comic payoffs, and sincere moments?
 4. Are the facts, audience conventions, and required action clear and correct?
 5. Is the satire affectionate, the invented material identifiable, and private information protected?
-6. Does any detail belong in a chapter- or publication-specific reference instead?
+6. Are chapter-specific conventions and publication requirements deferred to their own references?
 
 ## Status and scope
 
