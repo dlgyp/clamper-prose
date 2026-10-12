@@ -39,6 +39,8 @@ Authorial personas, signatures, chapter-specific genre conventions, and publicat
 
 ## 5. ECV context and editorial standards
 
+**Naming:** Write the order’s name as **E. Clampus Vitus**, with a period after E. When referring to the chapter newspaper, use ***Indignant Times*** without a leading “The.” Retain original wording in verbatim historical quotations.
+
 ECV is associated with fellowship, historical commemoration, and irreverent satire of fraternal solemnity. Vocabulary and traditions vary by chapter; **Equal Indignity** expresses an inversion of pomp and hierarchy.
 
 The customary Clamper calendar adds **4005** to the Gregorian year (2026 becomes 6031). Retain familiar ceremonial dates and terminology for chapter audiences without needless explanation; clarify practical dates for mixed or public audiences. Do not silently replace established local usage with generic language. The [Peter Lebeck ECV glossary](https://www.peterlebeckecv.com/ecvglossary.htm) is a reference to local usage, not universal authority.
