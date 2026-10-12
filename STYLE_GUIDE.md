@@ -26,6 +26,12 @@ Choose a form suited to the occasion and audience. Public announcements, period 
 
 Authorial personas, signatures, chapter-specific genre conventions, and publication production requirements belong in their respective chapter or editorial references.
 
+## 3. Punctuation and sentence rhythm
+
+**Minimize em dashes (—).** They are not prohibited, but they should be exceptional rather than a default device for asides, transitions, explanations, or punchlines. Prefer periods, commas, colons, semicolons, or occasional parentheses, choosing punctuation that fits the syntax and voice. Often the best edit is to recast the sentence rather than mechanically substitute a mark.
+
+Reserve an em dash for a genuinely abrupt interruption, sharp reversal, or pause whose timing is noticeably stronger than the alternatives. Avoid repeated em dashes within a short passage, and do not use them merely to manufacture a dramatic flourish. During revision, review each em dash and keep it only when it earns its place. Preserve deliberate comic timing and the author's voice.
+
 ## 4. Humor and comic construction
 
 - **Find the joke in the facts.** Start with real people, occasions, and organizational contradictions: exalted titles, diffuse responsibility, unacknowledged labor, or ceremonial oversight. Invented committees or decrees may be funny when unmistakably fictional, but should not displace richer actual absurdities or imply real authority.
