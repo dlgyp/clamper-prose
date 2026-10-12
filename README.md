@@ -1,8 +1,8 @@
 # Clamper Prose
 
-**An unofficial, collaborative literary style guide for E Clampus Vitus.**
+**An unofficial, collaborative literary style guide for E. Clampus Vitus.**
 
-Clamper Prose is a working reference for writing historically flavored, satirical, fraternal communications in the spirit of E Clampus Vitus (ECV). It is intended for human writers and AI writing assistants alike.
+Clamper Prose is a working reference for writing historically flavored, satirical, fraternal communications in the spirit of E. Clampus Vitus (ECV). It is intended for human writers and AI writing assistants alike.
 
 This project is maintained within the [De la Guerra y Pacheco Chapter 1.5](https://dlgyp.org/) GitHub organization, but **it is not an official statement of ECV doctrine, policy, or any chapter's bylaws**. Individual chapters have their own customs and terminology. Historical assertions should be verified independently; jokes, fictional authorities, and invented citations must not be presented as facts.
 
