@@ -28,9 +28,7 @@ Authorial personas, signatures, chapter-specific genre conventions, and publicat
 
 ## 3. Punctuation and sentence rhythm
 
-**Minimize em dashes (—).** They are not prohibited, but they should be exceptional rather than a default device for asides, transitions, explanations, or punchlines. Prefer periods, commas, colons, semicolons, or occasional parentheses, choosing punctuation that fits the syntax and voice. Often the best edit is to recast the sentence rather than mechanically substitute a mark.
-
-Reserve an em dash for a genuinely abrupt interruption, sharp reversal, or pause whose timing is noticeably stronger than the alternatives. Avoid repeated em dashes within a short passage, and do not use them merely to manufacture a dramatic flourish. During revision, review each em dash and keep it only when it earns its place. Preserve deliberate comic timing and the author's voice.
+**Avoid habitual em dashes (—), with author-specific rules taking precedence.** Prefer periods, commas, colons, semicolons, or occasional parentheses, choosing punctuation to suit syntax, genre, and voice. Recast sentences rather than mechanically substituting marks. For Chapter 1.5, El Bastardo Corto never uses em dashes; Ira B. Certain may use one or two across an entire print run of *Indignant Times*, only when clearly justified. Other authors and genres may establish their own conventions.
 
 ## 4. Humor and comic construction
 
