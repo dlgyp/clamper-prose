@@ -16,6 +16,8 @@ Apply these *Deadwood*-inspired techniques across Clamper Prose:
 - **High meets low:** Refined oratory applied to disreputable circumstances and mundane business.
 - **Profanity with restraint:** Borrow the show's linguistic ingenuity, not its frequency of obscenity; strong language should be rare, purposeful, and audience-appropriate.
 
+**Cadence and dramatic purpose.** Write for the ear. Let balanced phrases, qualifications, and changes of pace carry the speaker’s thought; allow a plain, short sentence to complete or puncture an elaborate one. Give each passage a speaker, an audience, and something to accomplish. Let elevated expression meet concrete, humble circumstances when the occasion warrants. Read important passages aloud, preserving length that earns its effect through character, rhythm, or humor. Do not force strict meter, rely on archaic vocabulary, or copy dialogue.
+
 Borrow dramatic mechanisms, **not exact dialogue**. Period flavor must remain intelligible.
 
 ## 2. Applying the tradition
